@@ -1,4 +1,4 @@
-name: Spring Boot & Gradle CI/CD
+name: Deploy to Amazon EC2
 
 on:
   push:
